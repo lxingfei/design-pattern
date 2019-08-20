@@ -10,7 +10,13 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class DelegatePatternApplicationTests {
 
 	@Test
-	public void contextLoads() {
+	public void contextLoads() throws InterruptedException {
+
+		System.out.println(Math.abs("uipipi".hashCode()) % 3);
+		System.out.println(Math.abs("hghdf;g;djg".hashCode()) % 3);
+		System.out.println(Math.abs("nhgnghn".hashCode()) % 3);
+		Thread t = new Thread();
+		t.join(10000);
 	}
 
 }
