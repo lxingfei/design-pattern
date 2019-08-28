@@ -4,8 +4,10 @@
 	<modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
     <modules>
-        <module>delegate</module>
-    </modules>
+        <module>delegate-pattern</module>
+		<module>proxy-pattern</module>
+		<module>singleton-pattern</module>
+	</modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
