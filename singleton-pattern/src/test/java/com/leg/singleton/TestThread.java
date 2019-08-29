@@ -1,3 +1,5 @@
+package com.leg.singleton;
+
 import com.leh.singleton.multiway.SingletonLazy1;
 
 import java.util.Collections;

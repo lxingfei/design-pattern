@@ -1,15 +1,13 @@
-package com.leh.singleton;
-
+package com.leh.factorypattern;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SingletonPatternApplication {
-
+public class FactoryPatternApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SingletonPatternApplication.class, args);
+		SpringApplication.run(FactoryPatternApplication.class, args);
 	}
 
 }

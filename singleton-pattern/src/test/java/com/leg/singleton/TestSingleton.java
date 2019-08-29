@@ -1,3 +1,5 @@
+package com.leg.singleton;
+
 public class TestSingleton {
     String name = null;  
     private TestSingleton() {}
