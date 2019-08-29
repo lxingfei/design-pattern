@@ -1,4 +1,4 @@
-package com.leg.singleton;
+package com.leh.singleton;
 
 import com.leh.singleton.multiway.SingletonLazy1;
 

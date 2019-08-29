@@ -1,4 +1,4 @@
-package com.leg.singleton;
+package com.leh.singleton;
 
 /**
  * 结论：由结果可以得知单例模式为一个面向对象的应用程序提供了对象惟一的访问点，

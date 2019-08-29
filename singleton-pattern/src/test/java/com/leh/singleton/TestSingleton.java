@@ -1,4 +1,4 @@
-package com.leg.singleton;
+package com.leh.singleton;
 
 public class TestSingleton {
     String name = null;  

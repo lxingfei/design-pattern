@@ -8,6 +8,7 @@
 		<module>proxy-pattern</module>
 		<module>singleton-pattern</module>
         <module>factory-pattern</module>
+        <module>strategy-pattern</module>
     </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
