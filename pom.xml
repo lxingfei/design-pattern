@@ -12,6 +12,7 @@
         <module>prototype-pattern</module>
         <module>template-pattern</module>
 		<module>responsibility-chain-pattern</module>
+		<module>decorator-pattern</module>
 	</modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
