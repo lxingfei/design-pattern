@@ -11,7 +11,8 @@
         <module>strategy-pattern</module>
         <module>prototype-pattern</module>
         <module>template-pattern</module>
-    </modules>
+		<module>responsibility-chain-pattern</module>
+	</modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>

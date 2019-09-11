@@ -20,7 +20,7 @@ import java.util.Set;
 @Component
 public class OrderHandlerProcessor implements BeanFactoryPostProcessor {
 
-    private static final String SCANNER_PACKAGE = "com.leh.strategypattern.strategy.handler.order.concrete";
+    private static final String SCANNER_PACKAGE = "com.leh.strategypattern.strategy.handlerdemo.order.concrete";
 
     @Override
     public void postProcessBeanFactory(ConfigurableListableBeanFactory configurableListableBeanFactory) throws BeansException {
