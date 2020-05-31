@@ -13,6 +13,8 @@
         <module>template-pattern</module>
 		<module>responsibility-chain-pattern</module>
 		<module>decorator-pattern</module>
+		<module>adapter-pattern</module>
+		<module>six-principle</module>
 	</modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
