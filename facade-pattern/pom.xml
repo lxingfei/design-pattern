@@ -9,8 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>decorator-pattern</artifactId>
-    <name>装饰者模式</name>
+    <artifactId>facade-pattern</artifactId>
+    <name>外观模式</name>
 
 
 </project>

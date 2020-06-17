@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>adapter-pattern</artifactId>
+    <name>适配器模式</name>
 
 
 </project>

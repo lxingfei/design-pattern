@@ -4,16 +4,28 @@
 	<modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
     <modules>
-        <module>delegate-pattern</module>
-		<module>proxy-pattern</module>
+		<!--creational-->
 		<module>singleton-pattern</module>
         <module>factory-pattern</module>
-        <module>strategy-pattern</module>
         <module>prototype-pattern</module>
-        <module>template-pattern</module>
+		<module>builder-pattern</module>
+		<!--creational-->
+
+		<!--behavioral-->
+        <module>strategy-pattern</module>
 		<module>responsibility-chain-pattern</module>
-		<module>decorator-pattern</module>
+        <module>template-pattern</module>
+        <module>delegate-pattern</module>
+		<!--behavioral-->
+
+		<!--structural-->
 		<module>adapter-pattern</module>
+		<module>proxy-pattern</module>
+		<module>decorator-pattern</module>
+		<module>flyweight-pattern</module>
+		<module>facade-pattern</module>
+		<!--structural-->
+
 		<module>six-principle</module>
 	</modules>
     <parent>
@@ -59,6 +71,12 @@
 			<groupId>commons-lang</groupId>
 			<artifactId>commons-lang</artifactId>
 			<version>2.6</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+			<version>19.0</version>
 		</dependency>
 	</dependencies>
 
