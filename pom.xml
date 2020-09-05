@@ -16,6 +16,7 @@
 		<module>responsibility-chain-pattern</module>
         <module>template-pattern</module>
         <module>delegate-pattern</module>
+        <module>command-pattern</module>
 		<!--behavioral-->
 
 		<!--structural-->

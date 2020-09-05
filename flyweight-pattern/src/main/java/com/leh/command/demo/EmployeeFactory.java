@@ -1,4 +1,4 @@
-package com.leh.flyweight.demo;
+package com.leh.command.demo;
 
 import java.util.HashMap;
 import java.util.Map;

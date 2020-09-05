@@ -1,4 +1,4 @@
-package com.leh.flyweight.demo;
+package com.leh.command.demo;
 
 /**
  * @ClassName Manager

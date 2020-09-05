@@ -1,13 +1,13 @@
-package com.leh.flyweight;
+package com.leh.command;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FlyWeightApplication {
+public class CommandApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FlyWeightApplication.class, args);
+		SpringApplication.run(CommandApplication.class, args);
 	}
 
 }
