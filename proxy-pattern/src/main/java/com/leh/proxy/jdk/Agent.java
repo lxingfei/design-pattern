@@ -11,10 +11,10 @@ import java.lang.reflect.Proxy;
  */
 public class Agent implements InvocationHandler{
 
-    private Renter target;//被代理对象的引用作为一个成员变量保存下来了
+    private Object target;//被代理对象的引用作为一个成员变量保存下来了
 
     //获取被代理人的个人资料
-    public Object getInstance(Renter target){
+    public Object getInstance(Object target){
         this.target = target;
         Class clazz = target.getClass();
         System.out.println("被代理对象的class是:"+clazz);
