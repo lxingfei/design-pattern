@@ -1,4 +1,4 @@
-package com.leh.adapter.objectadapter;
+package com.leh.observer.objectadapter;
 
 
 public interface Target {

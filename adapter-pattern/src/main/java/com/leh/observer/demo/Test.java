@@ -1,4 +1,4 @@
-package com.leh.adapter.demo;
+package com.leh.observer.demo;
 
 
 public class Test {

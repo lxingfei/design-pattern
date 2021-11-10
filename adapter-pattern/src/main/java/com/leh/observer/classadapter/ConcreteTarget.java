@@ -1,5 +1,4 @@
-package com.leh.adapter.objectadapter;
-
+package com.leh.observer.classadapter;
 
 
 public class ConcreteTarget implements Target {

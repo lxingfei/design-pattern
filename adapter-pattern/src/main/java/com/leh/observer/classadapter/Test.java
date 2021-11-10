@@ -1,4 +1,4 @@
-package com.leh.adapter.classadapter;
+package com.leh.observer.classadapter;
 
 public class Test {
     public static void main(String[] args) {

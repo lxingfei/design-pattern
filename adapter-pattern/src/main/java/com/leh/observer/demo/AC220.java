@@ -1,4 +1,4 @@
-package com.leh.adapter.demo;
+package com.leh.observer.demo;
 
 public class AC220 {
     public int outputAC220V(){

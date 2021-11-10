@@ -17,6 +17,7 @@
         <module>template-pattern</module>
         <module>delegate-pattern</module>
         <module>command-pattern</module>
+        <module>observer-pattern</module>
 		<!--behavioral-->
 
 		<!--structural-->
@@ -78,6 +79,11 @@
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
 			<version>19.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
 		</dependency>
 	</dependencies>
 
